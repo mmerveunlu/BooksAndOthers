@@ -10,5 +10,5 @@ Note that these notes are based on my personal interpretation of the book, and m
 ## Table of Contents 
 
 * Books
-  1. [Transformer Book](https://transformersbook.com)
+  1. [transformer-book](https://github.com/mmerveunlu/BooksAndOthers/tree/main/Books/transformer-book) contains notes from [Transformer Book](https://transformersbook.com)
 * Courses
