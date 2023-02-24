@@ -12,3 +12,8 @@ Note that these notes are based on my personal interpretation of the book, and m
 * Books
   1. [transformer-book](https://github.com/mmerveunlu/BooksAndOthers/tree/main/Books/transformer-book) contains notes from [Transformer Book](https://transformersbook.com)
 * Courses
+
+
+## Currently Reading 
+
+* [Mathematics for Machine Learning](https://mml-book.github.io)
