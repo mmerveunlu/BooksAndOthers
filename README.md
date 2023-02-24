@@ -7,5 +7,8 @@ Each chapter has its own file, which can be accessed by clicking on the correspo
 Note that these notes are based on my personal interpretation of the book, and may not reflect the author's intended meaning.
 
 
-Table of Contents
+## Table of Contents 
 
+* Books
+  1. [Transformer Book](https://transformersbook.com)
+* Courses
