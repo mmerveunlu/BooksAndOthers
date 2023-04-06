@@ -11,7 +11,7 @@
   
   <tr>
     <td class="tg-yw4l">Intro 1: Introduction to Natural Language Processing </td>
-    <td class="tg-yw4l"><a href="https://www.youtube.com/watch?v=pGC-QiNbuwA&list=PL8PYTP1V4I8AYSXn_GKVgwXVluCT9chJ6&index=1">Video<a></td>
+    <td class="tg-yw4l"><a href="https://youtu.be/rVht4eK3EZw">Video<a></td>
     <td class="tg-yw4l"><a href="https://modern-palladium-44c.notion.site/Intro-1-Introduction-to-Natural-Language-Processing-4146adce855f4f629dc2a62b650e344b">Custom Notes</a></td>
   </tr>
     <tr>
@@ -27,6 +27,6 @@
         <tr>
     <td class="tg-yw4l">Sequence Modelling and Recurrent Neural Networks </td>
     <td class="tg-yw4l"><a href="https://youtu.be/N_Ip2zhIGSk">Video<a></td>
-    <td class="tg-yw4l"><a href="https://www.notion.so/Intro-4-Neural-Network-Basics-and-Toolkit-Construction-f0db7ada54cb44dfa48198848681f7d0">Custom Notes</a></td>
+    <td class="tg-yw4l"><a href="https://modern-palladium-44c.notion.site/Sequence-Modelling-and-Recurrent-Neural-Networks-b63b77eef999448fbefa01bd5a59f038">Custom Notes</a></td>
   </tr>
 </table>
