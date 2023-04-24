@@ -34,4 +34,9 @@
     <td class="tg-yw4l"><a href="https://youtu.be/FazNgBWvkkk">Video<a></td>
     <td class="tg-yw4l"><a href="https://modern-palladium-44c.notion.site/Conditioned-Generation-b2ca1bafabbd4853a5b39cc7e04690b9">Custom Notes</a></td>
   </tr>
+       <tr>
+    <td class="tg-yw4l">Attention</td>
+    <td class="tg-yw4l"><a href="https://youtu.be/0PPzD4mxpuM">Video<a></td>
+    <td class="tg-yw4l"><a href="https://modern-palladium-44c.notion.site/Attention-ea4406b57e2448779a7c50f95ee22b02">Custom Notes</a></td>
+  </tr>
 </table>
