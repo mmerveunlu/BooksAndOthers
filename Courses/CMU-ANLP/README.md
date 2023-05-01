@@ -39,4 +39,9 @@
     <td class="tg-yw4l"><a href="https://youtu.be/0PPzD4mxpuM">Video<a></td>
     <td class="tg-yw4l"><a href="https://modern-palladium-44c.notion.site/Attention-ea4406b57e2448779a7c50f95ee22b02">Custom Notes</a></td>
   </tr>
+  <tr>
+    <td class="tg-yw4l">Language Model Pre-training</td>
+    <td class="tg-yw4l"><a href="https://youtu.be/27LkyrxaUK4">Video<a></td>
+    <td class="tg-yw4l"><a href="https://modern-palladium-44c.notion.site/Language-Model-Pre-training-d7ca2e525d2a499e8dc4ba83a7579ede">Custom Notes</a></td>
+  </tr>
 </table>
