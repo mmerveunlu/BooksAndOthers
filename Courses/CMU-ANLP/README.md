@@ -44,4 +44,9 @@
     <td class="tg-yw4l"><a href="https://youtu.be/27LkyrxaUK4">Video<a></td>
     <td class="tg-yw4l"><a href="https://modern-palladium-44c.notion.site/Language-Model-Pre-training-d7ca2e525d2a499e8dc4ba83a7579ede">Custom Notes</a></td>
   </tr>
+  <tr>
+    <td class="tg-yw4l">Multi-task, Multi-domain and Multi-lingual Learning</td>
+    <td class="tg-yw4l"><a href="https://youtu.be/BXPyIENMs4Y">Video<a></td>
+    <td class="tg-yw4l"><a href="https://modern-palladium-44c.notion.site/Multi-task-Multi-domain-and-Multi-lingual-Learning-0ee6c9835f5a4572840bee49828ddc66">Custom Notes</a></td>
+  </tr>
 </table>
