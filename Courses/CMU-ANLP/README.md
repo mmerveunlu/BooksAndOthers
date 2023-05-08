@@ -49,4 +49,9 @@
     <td class="tg-yw4l"><a href="https://youtu.be/BXPyIENMs4Y">Video<a></td>
     <td class="tg-yw4l"><a href="https://modern-palladium-44c.notion.site/Multi-task-Multi-domain-and-Multi-lingual-Learning-0ee6c9835f5a4572840bee49828ddc66">Custom Notes</a></td>
   </tr>
+   <tr>
+    <td class="tg-yw4l">Prompting</td>
+    <td class="tg-yw4l"><a href="https://youtu.be/5ef83Wljm-M">Video<a></td>
+    <td class="tg-yw4l"><a href="https://modern-palladium-44c.notion.site/Prompting-635c692c0af94c2789062e721b766f71">Custom Notes</a></td>
+  </tr>
 </table>
